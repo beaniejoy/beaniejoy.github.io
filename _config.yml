@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: beaniejoy # the main title
 
-tagline: 이런저런 개발일기 # it will display as the sub-title
+tagline: 기록자가 천재보다도 더 낫다.<br>기록자는 기억의 천재다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   beaniejoy의 개발일기
@@ -83,7 +83,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/beaniejoy.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
